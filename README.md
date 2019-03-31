@@ -1,0 +1,2 @@
+# Hello
+composer-hello test
